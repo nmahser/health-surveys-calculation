@@ -1,10 +1,17 @@
-Acronym	Survey                                     
+Acronym | Survey | Links                                  
 
-QOL	WHOQOL- Quality of Life
-RND	RAND-Social Support
-LON	UCL Lonesliness Scale- Connection with Others
-CHA	CHAMPS-Activities
-HAD	HADS-Emotional Health
-BDI	BDI- Menta Health
-GPM	Geriatric Pain Measure (GPM)-Pain
-PSQ	The Pittsburgh Sleep Quality Index (PSQI)
+QOL	WHOQOL-Quality of Life - https://www.who.int/mental_health/media/en/76.pdf?ua=1
+
+RND	RAND-Social Support - https://www.rand.org/health-care/surveys_tools/mos/social-support/scoring.html
+
+LON	UCL Lonesliness Scale- Connection with Others -  http://quantiamd.com/q-qcp/UCLA_Loneliness_Scale.pdf
+
+CHA	CHAMPS-Activities - Percentage of individuals that perform activity and frequencies
+
+HAD	HADS-Emotional Health - http://www.svri.org/sites/default/files/attachments/2016-01-13/HADS.pdf
+
+BDI	BDI- Menta Health - https://www.ismanet.org/doctoryourspirit/pdfs/Beck-Depression-Inventory-BDI.pdf
+
+GPM	Geriatric Pain Measure (GPM)-Pain - http://www.palliativecareswo.ca/docs/Geriatric%20Pain%20Measure%20GPM.pdf 
+PSQ	The Pittsburgh Sleep Quality Index (PSQI) - https://consultgeri.org/try-this/general-assessment/issue-6.1.pdf
+
