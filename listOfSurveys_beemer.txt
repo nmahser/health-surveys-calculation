@@ -1,0 +1,12 @@
+Acronym	Survey
+
+DEM	Demographics questions
+BEE	Specific Beemer Questions Intake
+QOL	WHOQOL- Quality of Life
+RND	RAND-Social Support
+LON	UCL Lonesliness Scale- Connection with Others
+CHA	CHAMPS-Activities
+HAD	HADS-Emotional Health
+BDI	BDI- Menta Health
+GPM	Geriatric Pain Measure (GPM)-Pain
+PSQ	The Pittsburgh Sleep Quality Index (PSQI)
