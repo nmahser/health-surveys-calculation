@@ -25,7 +25,7 @@ divideSurveysExcel <- function(studyName,noRowsData,acronyms) {
 
 
 divideSurveysList <- function(studyName,noRowsData,acronyms) {
-  
+ 
   # Extract RecipientLastName, RecipientFirstName
   lastName <- noRowsData["RecipientLastName"]
   firstName <- noRowsData["RecipientFirstName"]
@@ -44,9 +44,10 @@ divideSurveysList <- function(studyName,noRowsData,acronyms) {
     
     listOfSurveys[[acronyms[i]]] <- finalizedSheet
     
-  return(listOfSurveys)
-    
   }
+  
+  return(listOfSurveys)
+  
 }
 
 
