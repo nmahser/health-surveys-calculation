@@ -4,7 +4,7 @@ library(xlsx)
 # Divide the surveys into different sheets
 divideSurveysExcel <- function(studyName,noRowsData,acronyms) {
   
-  #Extract RecipientLastName, RecipientFirstName
+  # Extract RecipientLastName, RecipientFirstName
   lastName <- noRowsData["RecipientLastName"]
   firstName <- noRowsData["RecipientFirstName"]
   
@@ -26,9 +26,12 @@ divideSurveysExcel <- function(studyName,noRowsData,acronyms) {
 
 divideSurveysList <- function(studyName,noRowsData,acronyms) {
   
-  #Extract RecipientLastName, RecipientFirstName
+  # Extract RecipientLastName, RecipientFirstName
   lastName <- noRowsData["RecipientLastName"]
   firstName <- noRowsData["RecipientFirstName"]
+  
+  # Initialize a list to store each survey data
+  listOfSurveys <- list()
   
   for (i in 1:length(acronyms)) {
     
